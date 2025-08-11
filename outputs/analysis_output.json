@@ -1,0 +1,21 @@
+{
+  "process": "Company Incorporation",
+  "documents_uploaded": 1,
+  "required_documents": 5,
+  "missing_documents": [
+    "Memorandum of Association",
+    "Incorporation Application Form",
+    "UBO Declaration Form",
+    "Register of Members and Directors"
+  ],
+  "issues_found": [
+    {
+      "section": "N/A",
+      "issue": "No knowledge base loaded",
+      "severity": "Low",
+      "suggestion": "Click 'Build KB / Index' first.",
+      "citations": [],
+      "document": "sample_aoa.docx"
+    }
+  ]
+}
